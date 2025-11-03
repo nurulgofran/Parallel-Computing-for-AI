@@ -2,7 +2,7 @@
 
 This repository contains implementations and analysis of parallel algorithms and distributed computing concepts, with a focus on performance optimization and scalability.
 
-## 🎯 What This Repository Contains
+## What This Repository Contains
 
 Implementations of various parallel computing algorithms including:
 - Sequential vs. parallel algorithm comparisons
@@ -11,7 +11,7 @@ Implementations of various parallel computing algorithms including:
 - Speedup and efficiency metrics
 - Visualization of parallel computing concepts
 
-## 🔬 Key Concepts Explored
+## Key Concepts Explored
 
 ### Parallel Computing Models
 - **EREW-PRAM** (Exclusive Read Exclusive Write)
@@ -24,7 +24,7 @@ Implementations of various parallel computing algorithms including:
 - Efficiency metrics: Ep = Sp/p
 - Scalability testing across different data sizes and processor counts
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x**
 - **Libraries:**
@@ -35,7 +35,7 @@ Implementations of various parallel computing algorithms including:
   - `concurrent.futures` - Parallel execution
   - `multiprocessing` - Process management
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -51,7 +51,7 @@ pip install numpy pandas matplotlib seaborn
 2. Run cells sequentially or use: Kernel → Restart Kernel and Run All Cells
 3. Check generated outputs for results and visualizations
 
-## 🎓 Learning Outcomes
+##  Learning Outcomes
 
 This repository demonstrates:
 - Parallel algorithm design and analysis
@@ -61,12 +61,12 @@ This repository demonstrates:
 - Practical parallel programming implementation
 - Benchmarking and performance visualization
 
-## 📖 References
+## References
 
 - Blelloch, Guy E. "Prefix Sums and Their Applications" - Carnegie Mellon University
 - Parallel Random Access Machine (PRAM) models
 
-## � About
+## About
 
 This repository explores parallel computing concepts through practical implementations, focusing on algorithm optimization and performance analysis for AI and computational tasks.
 
