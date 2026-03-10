@@ -1,0 +1,82 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+ehthumbs.db
+
+# MATLAB generated files
+*.asv
+*.slxc
+*.mexw64
+*.mexmaci64
+*.mexa64
+slprj/
+*.autosave
+
+# Simulink cache
+slprj/
+*.slxc
+
+# C/C++ compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Temporary files
+*~
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Results and output files (generated)
+results/
+outputs/
+*.mat
+!r134aPHDiagram.mat
+!r134aPropertyTables.mat
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Documentation build
+docs/_build/
+docs/build/
+
+# Testing tools
+.testsprite/
+
+# AI assistant configs
+.claude/
+.agents/
+.agent/
+.gemini/
+
+# Environment files
+.env
+.env.*
+!.env.example
