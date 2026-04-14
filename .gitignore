@@ -86,3 +86,12 @@ node_modules/
 
 # Build outputs
 dist/
+
+# ===== SENSITIVE FILES - DO NOT COMMIT =====
+keystore.properties
+*.keystore
+*.jks
+google-services.json
+GoogleService-Info.plist
+build/
+dazl.config.json
